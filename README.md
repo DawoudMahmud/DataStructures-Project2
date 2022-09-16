@@ -1,7 +1,7 @@
 # DataStructures-Project2
 Assignment 2 of my Data Structures and Algorithms project course
 
-CS 165 - Project 2 - Testing Solution Quality (Phase 1)
+CS 165 - Project 2 - Testing Solution Quality
 
 Project 2 involves testing various bin packing algorithms experimentally to determine the quality of the solutions they produce. The specific bin-packing algorithms you should implement are the following five algorithms:
 
